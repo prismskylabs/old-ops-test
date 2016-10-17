@@ -1,0 +1,30 @@
+{
+  "name": "ops-test",
+  "version": "1.2.3",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prismskylabs/ops-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prismskylabs/ops-test/issues"
+  },
+  "homepage": "https://github.com/prismskylabs/ops-test#readme",
+  "eslintConfig": {
+    "env": {
+      "node": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 6
+    }
+  },
+  "devDependencies": {
+    "eslint": "^3.8.0"
+  }
+}
